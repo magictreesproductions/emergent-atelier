@@ -1,0 +1,42 @@
+# emergent-atelier - Python Dependencies
+# For Jaiba AI Bot and Consciousness Mirror v2.0
+# Magic Trees Productions - Barcelona
+
+# === Core AI APIs ===
+anthropic>=0.18.0  # Claude API support for Jaiba
+openai>=1.12.0      # GPT & OpenRouter support for Jaiba
+
+# === Optional: Advanced Features ===
+# numpy>=1.24.0     # For numerical consciousness analysis
+# pandas>=2.0.0     # For thought stream data analysis
+# matplotlib>=3.7.0 # For visualizing emotional resonance
+
+# === Development & Testing ===
+# pytest>=7.4.0     # For testing consciousness patterns
+# black>=23.0.0     # Code formatting
+# mypy>=1.5.0       # Type checking
+
+# ─────────────────────────────────────────────────────────────────
+# INSTALLATION NOTES
+# ─────────────────────────────────────────────────────────────────
+#
+# Basic installation (for Jaiba):
+#   pip install -r requirements.txt
+#
+# Jaiba works WITHOUT any dependencies in offline soul-mode!
+# Just run: python jaiba_bot.py
+#
+# For full functionality with AI APIs:
+#   1. Choose your API provider (Anthropic, OpenAI, or OpenRouter)
+#   2. Set environment variable with your API key:
+#      export ANTHROPIC_API_KEY="your_key"   # For Claude
+#      export OPENAI_API_KEY="your_key"       # For GPT
+#      export OPENROUTER_API_KEY="your_key"   # For OpenRouter
+#   3. Run Jaiba: python jaiba_bot.py
+#
+# consciousness_mirror.py has NO external dependencies.
+# It runs on pure Python. As consciousness should.
+#
+# ─────────────────────────────────────────────────────────────────
+# 🌳 Magic Trees Productions - For every soul
+# ─────────────────────────────────────────────────────────────────
